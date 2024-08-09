@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 0.7rem;
+    width: 100%;
+}
+
+header div {
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    width: 90%;
+}
+
+.logo_portifolio {
+    color: white;
+    font-size: 43px;
+    font-weight: 900;
+}
